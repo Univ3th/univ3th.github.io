@@ -8,6 +8,8 @@ color_scheme: dark
 favicon_ico: "3665994.png"
 logo: "3665994.png"
 
+permalink: /:title/
+
 
 
 url: https://just-the-docs.github.io
