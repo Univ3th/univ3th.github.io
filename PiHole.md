@@ -4,6 +4,7 @@ layout: home
 ---
 
 <h1>Pi-Hole on Raspberry Pi 4</h1>
+----
 
 Just set up the Raspberry Pi as you normally would. Remember to configure a static IP address.
 
