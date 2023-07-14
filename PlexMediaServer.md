@@ -1,9 +1,9 @@
 ---
-title: Plex Media Server Setup
+title: Pi-Hole Setup
 layout: home
 ---
 
-<h1>Plex Media Server Setup</h1>
+<h1>Pi-Hole on Raspberry Pi 4</h1>
 
 Just set up the Raspberry Pi as you normally would. Remember to configure a static IP address.
 
