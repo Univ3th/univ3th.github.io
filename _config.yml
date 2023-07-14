@@ -2,5 +2,8 @@ title: Univeth
 description: Portfolio -> My Projects
 theme: just-the-docs
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 url: https://just-the-docs.github.io
 
